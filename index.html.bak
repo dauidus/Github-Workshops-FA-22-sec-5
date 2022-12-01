@@ -39,8 +39,8 @@
 
                 <!-- Logo -->
                 <div id="logo">
-                    <h2>Prof. Dave Winter</h2>
-                    <h4>Lecturer, CSULB (I can write code)</h4>
+                    <h2>I am the progessor</h2>
+                    <h4>Lecturer, CSULB (I teach and write code)</h4>
                 </div>
                 <!-- /Logo -->
 
@@ -108,7 +108,7 @@
                         <li class="tmenu"><a href="#portfolio"><i>&#x38;</i>Portfolio</a></li>
                         <li class="tmenu"><a href="#contact"><i>&#x21;</i>Contact</a></li>
                     </ul>
-                    <a class="prev" id="menu-prev" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">&#xe073;</a>
+                    <a class="prev" id="menu-prev" href="#">&#xe073;</a>
                     <a class="next" id="menu-next" href="#">&#xe076;</a>
                 </nav>
                 <!-- /Menu --> 
@@ -184,7 +184,7 @@
                     </div>
                     <div class="skills-section">
                         <!-- Skills -->
-                        <h3 class="main-heading">Skills</h3> 
+                        <h3 class="main-heading">Some Skills I Know</h3> 
                         <ul class="skills">
                             <li>
                                 <h4>Java</h4>
@@ -208,7 +208,7 @@
                                 <div class="rating" data-rat="4"></div>
                             </li>
                             <li>
-                                <h4>Relevance</h4>
+                                <h4>Stonks</h4>
                                 <div class="rating" data-rat="7"></div>
                             </li> 
                             <li>
