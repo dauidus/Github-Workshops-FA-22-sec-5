@@ -232,7 +232,7 @@
 	.about p {
 		font-size:14px;
 		margin-top:5px;
-		color:/*profileTextColor*/#0ff014;
+		color:/*profileTextColor*/#ffdc13;
 		font-weight: 400;
 		line-height:20px;
 	}

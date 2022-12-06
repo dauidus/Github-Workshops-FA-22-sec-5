@@ -79,7 +79,8 @@
                         <li><label>Email</label><span class="word-wrap">Dave.Winter@csulb.edu</span></li>
                         <li><label>Phone</label><span>In your dreams</span></li>
                         <li><label>Website</label><span class="word-wrap">shameless plug here</span></li>
-                    </ul>
+						<li><label>Title</label><span>The Professor</span></li>
+					</ul>
                     <!-- /Personal info section -->
 
                      <!-- Cover letter -->
@@ -184,7 +185,7 @@
                     </div>
                     <div class="skills-section">
                         <!-- Skills -->
-                        <h3 class="main-heading">Some Skills I Know</h3> 
+                        <h3 class="main-heading">Skills</h3> 
                         <ul class="skills">
                             <li>
                                 <h4>Java</h4>
@@ -208,7 +209,7 @@
                                 <div class="rating" data-rat="4"></div>
                             </li>
                             <li>
-                                <h4>Stonks</h4>
+                                <h4>Relevance</h4>
                                 <div class="rating" data-rat="7"></div>
                             </li> 
                             <li>
