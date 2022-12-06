@@ -79,8 +79,7 @@
                         <li><label>Email</label><span class="word-wrap">Dave.Winter@csulb.edu</span></li>
                         <li><label>Phone</label><span>In your dreams</span></li>
                         <li><label>Website</label><span class="word-wrap">shameless plug here</span></li>
-						<li><label>Title</label><span>The Professor</span></li>
-					</ul>
+                    </ul>
                     <!-- /Personal info section -->
 
                      <!-- Cover letter -->
