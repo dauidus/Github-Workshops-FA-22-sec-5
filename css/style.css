@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #E8E8E8;
+		background-color: #F0F;
 		margin: 0px;
 		padding: 0px;
 		font-family:'open Sans', Arial;
@@ -32,7 +32,7 @@
 		margin-top: 30px;
 	}
 	#content {
-		background-color:#FFF;
+		background-color:#F0F;
 		-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 		-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 		box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
@@ -1100,11 +1100,11 @@
 	#logo h2 {
 		font-size:25px;
 		font-weight:900;
-		color: black;
+		color: #444;
 		line-height:30px;
 	}
 	#logo h4 {
-		color:black;
+		color:#666;
 		line-height:15px;
 	}
 	/* Social icons */
